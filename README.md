@@ -36,4 +36,4 @@
 * myshell: myprog [args] 2> file.out <br/>
 → Writes the  error of myprog to the file.out. <br/>
 * myshell: myprog [args] < file.in > file.out  <br/>
-→ Reads input from file.in and output of the command is directed to the file.out <br/>
+→ Reads input from file.in and output of the command is directed to the file.out<br/>
