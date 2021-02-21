@@ -18,7 +18,7 @@
 
 * bookmark :  <br/>
 → bookmarks frequently used commands. <br/>
-→ Using -l (lowercase letter L) lists all the bookmarks added to myshell.<br/>
+→ Using -l (lowercase letter L) lists all the bookmarks added to myshell. <br/>
 → Bookmark -i idx executes the command bookmarked at index idx.<br/>
 → Using -d idx deletes the command at index idx and shifts the successive commands up in the list.<br/>
 
